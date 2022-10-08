@@ -1,0 +1,21 @@
+body {
+  background: black;
+
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul, h1, footer {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+
+
+#padlock {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin: 20px
+}
