@@ -7,6 +7,8 @@
 ### O desafio:
 - Recriar uma aplicação, a partir de um layout disponível no Figma, para treinar todo o que aprendemos até agora no Stage 02.
 
+[Clique aqui para acessar](https://danysglez.github.io/Explorer-Stage02-phase04/)
+
 ### Tecnologias utilizadas:
 
 <div style="display: inline_block">
